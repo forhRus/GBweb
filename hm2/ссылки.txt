@@ -1,0 +1,12 @@
+инструменты
+https://colorscheme.ru/ - политра цветов
+https://validator.w3.org/#validate_by_input - проверка кода на ошибки
+https://pastebin.com/bf96RyhP - даёт ссылку с сохранённым кодом
+
+доп материал
+https://disk.yandex.ru/d/DgApciHYEaA_pw - курсы по html
+https://webref.ru/html - справочник по html
+
+
+справка
+https://open-vsx.org/extension/techer/open-in-browser - open in browser tutorial
